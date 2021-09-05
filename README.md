@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 <p>If you want to check it <a href="https://drive.google.com/file/d/1-1e-vyjyu9BflJ_RD_pVdimwaUsnz78_/view?usp=drivesdk">DOWNLOAD FROM HERE</a></p>
 
 <b>App Feature</b>
-<p>There is 10 online Radio Channel (look at screenshots)</p>
-<p>You can play Channel with voice command.But What will you say? Don't Worry . Home Page Have Chips where you find all Command</p>
+<p>1.There is 10 online Radio Channel (look at screenshots)</p>
+<p>2.You can play Channel with voice command.But What will you say? Don't Worry . Home Page Have Chips where you find all Command</p>
 Enjoy it.
 
 
