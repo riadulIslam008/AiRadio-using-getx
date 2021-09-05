@@ -25,6 +25,6 @@ Enjoy it.
 
 
 Here is all ScreenShot From App.
-<img src="https://user-images.githubusercontent.com/73518920/132128198-b413772a-6a80-4544-9193-fb767cfb92c4.jpg.jpg" height= "500" width ="300">
+<img src="https://user-images.githubusercontent.com/73518920/132128198-b413772a-6a80-4544-9193-fb767cfb92c4.jpg" height= "500" width ="300">
 <img src="https://user-images.githubusercontent.com/73518920/132128164-05a61da5-883e-42d1-8e1c-a89481983b4d.jpg" height= "500" width ="300">
 <img src="https://user-images.githubusercontent.com/73518920/132128166-de0c0968-6b8a-4c04-b381-a026067f90c4.jpg" height= "500" width ="300">
